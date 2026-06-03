@@ -1,0 +1,2 @@
+model_name,mode,episode,travel_time,q_loss,reward,queue,delay,throughoutput
+fixedtime,TRAIN,0,99.0562,0,72.6700,1.0660,0.5946,4921

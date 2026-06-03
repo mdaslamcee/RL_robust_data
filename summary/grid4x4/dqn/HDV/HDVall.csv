@@ -1,0 +1,8 @@
+model_name,case,initial_travel_time,optimum_travel_time,recovery_time,initial_drop
+dqn,init_HDV_case1,179.5,126.4,23,29.58
+dqn,HDV_case1,180.1,130.8,5,27.37
+dqn,HDV_case2,209.4,175.5,7,16.19
+dqn,HDV_case3,183.5,130.1,5,29.1
+dqn,HDV_case4,207.6,144.0,8,30.64
+dqn,HDV_case5,176.6,131.6,5,25.48
+dqn,HDV_case6,136.0,133.9,1,1.54
